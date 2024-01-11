@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246112158049",
+    "project_id": "uas-application-6fe0d",
+    "storage_bucket": "uas-application-6fe0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246112158049:android:283612160f54e1af724520",
+        "android_client_info": {
+          "package_name": "com.fadhlan.uas_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQmnLN2EpZK40RvVJCTnXPtteaO7piA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
